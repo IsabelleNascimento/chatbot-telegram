@@ -1,0 +1,13 @@
+# Ignorar o arquivo de credenciais
+.env
+
+# Pastas e caches do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos do VSCode e sistema
+.vscode/
+.idea/
+.DS_Store
